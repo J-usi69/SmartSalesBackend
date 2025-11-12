@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # smartsales365_backend
 
 Estructura inicial del backend Django para SmartSales365.
@@ -25,3 +26,6 @@ python -m pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 ```
+=======
+# SmartSalesBackend
+>>>>>>> 434da25b9374c386cd0eeb83d176e8883aae623c

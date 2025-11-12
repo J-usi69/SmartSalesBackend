@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ------------------------------------
 # PYTHON / DJANGO
 # ------------------------------------
@@ -15,3 +16,24 @@ VENV/
 .Python
 pip-selfcheck.json
 .vscode/
+=======
+# Entornos virtuales y caché
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Archivos sensibles
+*.json
+*.env
+*.log
+server/firebase/credenciales.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración IDE
+.vscode/
+.idea/
+>>>>>>> 434da25b9374c386cd0eeb83d176e8883aae623c
